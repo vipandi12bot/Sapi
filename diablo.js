@@ -253,7 +253,8 @@ jiren = `
 亗├ -UBAH WA JADI BOT 80K
 亗├ -SEWA 35K
 亗├ -JADI MEMBER 15K
-亗├ BISA KUNJUNGI WA wa.me/6285774540937
+亗├  BISA KUNJUNGI WA 
+亗├  wa.me/6285774540937
 亗├──────────────────┈
 `
 diablobotwhatsapp.reply(jiren)
