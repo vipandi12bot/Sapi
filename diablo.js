@@ -23,7 +23,7 @@ chats: {},
 }
 
 global.ownerName = 'El Diablo'
-global.ownerNumber = ["6281220670449@s.whatsapp.net"]
+global.ownerNumber = ["6285774540937@s.whatsapp.net"]
 global.prefa = ['','.']
 global.mess = {
     wait: 'Wait Sis Please be patient',
@@ -238,7 +238,7 @@ jiren = `
 亗├ • ${prefix}savage (62xxx)
 亗├ NOTE : 
 亗├ 62XXX ITU PASTE NO KORBAN
-亗├ contoh : bug1 62826578172
+亗├ contoh : bug1 6285774540937
 亗├──────────────────┈
 亗├ 「 V2 NEW 」
 亗├──────────────────┈
@@ -253,7 +253,7 @@ jiren = `
 亗├ -UBAH WA JADI BOT 80K
 亗├ -SEWA 35K
 亗├ -JADI MEMBER 15K
-亗├ BISA KUNJUNGI WA wa.me/62831116373508
+亗├ BISA KUNJUNGI WA wa.me/6285774540937
 亗├──────────────────┈
 `
 diablobotwhatsapp.reply(jiren)
